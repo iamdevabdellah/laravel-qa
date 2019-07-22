@@ -34,7 +34,6 @@ class Question extends Model
             return "answered";
         } else {
             return "unanswered";
-        }
-        
+        }   
     }
 }
